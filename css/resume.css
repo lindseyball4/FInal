@@ -8,3 +8,7 @@ ul{
     text-decoration: none;
     list-style-position: inside;
 }
+
+p{
+    font-weight: bold;
+}
